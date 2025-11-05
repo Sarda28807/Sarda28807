@@ -1,11 +1,21 @@
-# 💫 Hi , I'm Sarada Mohanty
-**A passionate Engineer from India**
+Hi there, I'm Sarada Mohanty! 👋
 
-Email Me 👉 ✉️ **saradamohanty28807@gmail.com** For Collaboration/Project or Anything Else. 
+I'm a student passionate about building my skills in software development.
 
-## 🔗 I am a 3rd year student at SOA ITER. 
+---
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+### 🎯 My Goals for This Year:
+
+* Build my first project 
+* Contribute to an open-source project, even in a small way.
+* Get comfortable using the command line and Git.
+
+### 📫 How to Reach Me:
+
+* **LinkedIn:** www.linkedin.com/in/sarada2004
+* **Email:** saradamohanty28807@gmail.com
+
+## 🔗 I am a Software Engineer. 
 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
