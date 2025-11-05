@@ -1,5 +1,5 @@
 # 💫 Hi , I'm Sarada Mohanty
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Engineer from India**
 
 Email Me 👉 ✉️ **saradamohanty28807@gmail.com** For Collaboration/Project or Anything Else. 
 
