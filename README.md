@@ -1,8 +1,9 @@
 Hi there, I'm Sarada Mohanty! 👋
 
-I'm a student passionate about building my skills in software development.
 My personal portfolio website showcasing my projects, skills, and experience.
 https://sarda28807.github.io/Personal-Portfolio/
+
+I'm a student passionate about building my skills in software development.
 ---
 
 ### 🎯 My Goals for This Year:
